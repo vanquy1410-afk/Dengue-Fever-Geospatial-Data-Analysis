@@ -39,7 +39,7 @@ Based on the spatial analysis, we recommend the following actions to lower dengu
 - Run focused community awareness programs in neighborhoods with high case numbers.
 - Implement GIS-driven monitoring for earlier detection and faster response.
 
-![Dengue Heatmap - Nha Trang city](outputs/maps/dengue_heatmap.png)
+![Dengue Heatmap - Nha Trang city](Data/Outputs/Maps/dengue_heatmap.png)
 
 These recommendations demonstrate how GIS outputs can support data-driven public health decision-making.
 
